@@ -1,7 +1,7 @@
 baseurl: https://imansrecipes.netlify.app/
 languageCode: en-us
 title: A Hugo website
-theme: hugo-lithium
+theme: hugo-tufte
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
