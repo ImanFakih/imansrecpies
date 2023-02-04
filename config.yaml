@@ -1,6 +1,6 @@
 baseURL: https://imansrecipes.com
 languageCode: en-us
-title: Example Blog
+title: Iman's Recipes
 theme: elephants
 params:
   sitename: Iman's Recipes
