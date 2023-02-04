@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+<section id="content" class="page-content">
+  <table>
+    {{ range sort .Site.RegularPages "Title" }}
+    <tr>
+      <td class="post">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </td>
+    </tr>
+    {{ end }}
+  </table>
+</section>
+
+{{ partial "footer.html" . }}
