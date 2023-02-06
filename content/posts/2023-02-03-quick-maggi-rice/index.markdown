@@ -11,7 +11,7 @@ tags: []
 - 1/2 teaspoon turmeric
 - 1/4 teaspoon ground cumin
 - 1 1/2 cups long-grain or Basmati rice
-- 2 1/2 cups water + 1/2 cube of Maggi OR 2 1/2 cups chicken broth
+- 2 1/2 cups water + 1/2 cube of Maggi, or 2 1/2 cups chicken broth
 - 1/2 teaspoon salt, or 1  teaspoon if not using Maggi
 
 (1) Melt the butter over medium heat in a large pot.
