@@ -3,7 +3,7 @@ title: Red Chili with Chicken and Corn
 author: ''
 date: '2023-02-19'
 slug: []
-categories: []
+categories: [main]
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 - 1 yellow onion, diced
 - 3 cloves garlic, grated
 - 2 tablespoons chili powder, OR 1 tablespoon smoked paprika + 1 teaspoon ground cumin + 1 tablespoon chipotle chili in adobo sauce + 1/2 teaspoon oregano
-- 1/2 can tomatoes, OR 3 ripe tomatoes 
+- 1/2 can tomatoes, OR 3 ripe tomatoes, diced or grated
 - 1 teaspoon salt
 - 1 can kidney beans
 - 1 can pinto beans
