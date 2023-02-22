@@ -1,8 +1,9 @@
 body {
     font-family: 'Ubuntu';
-    color: black;
+    color: #111;
     margin: auto;
     max-width: 50em;
+    background-color: #fffff8;
 }
 
 #page-title {
@@ -10,7 +11,7 @@ body {
 }
 
 #page-title h1 a, .post a {
-    color: black;
+    color: #111;
 }
 
 a {
