@@ -7,10 +7,10 @@ categories: [rice]
 tags: []
 ---
 
-- 2 tablespoons unsalted butter
+- 2 tablespoons butter
 - 1/2 teaspoon turmeric
 - 1/4 teaspoon ground cumin
-- 1 1/2 cups long-grain or Basmati rice
+- 1 1/2 cups rice
 - 2 1/2 cups water + 1/2 cube of Maggi, or 2 1/2 cups chicken broth
 - 1/2 teaspoon salt, or 1  teaspoon if not using Maggi
 
