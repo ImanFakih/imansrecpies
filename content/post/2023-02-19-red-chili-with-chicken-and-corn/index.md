@@ -12,6 +12,7 @@ tags: []
 - 3 cloves garlic, grated
 - 2 tablespoons chili powder, OR 1 tablespoon smoked paprika + 1 teaspoon ground cumin + 1 tablespoon chipotle chili in adobo sauce + 1/2 teaspoon oregano
 - 1/2 can tomatoes, OR 3 ripe tomatoes, diced or grated
+- 1 cup water
 - 1 teaspoon salt
 - 1 can kidney beans
 - 1 can pinto beans
@@ -22,7 +23,7 @@ tags: []
 
 (2) Add garlic and spices and stir until fragrant for around one minute.
 
-(3) Add tomatoes and salt. Once they reach a simmer, add in beans and corn. Cook for 5 minutes.
+(3) Add tomatoes, water, and salt. Once they reach a simmer, add in beans and corn. Cook for 5 minutes.
 
 (4) Add chicken and cook for another 10 minutes.
 
