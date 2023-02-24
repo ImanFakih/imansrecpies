@@ -33,8 +33,11 @@ Add beef and cook for another 10 minutes.
 Chop parsley leaves. Thinly slice onion. Mix with sumac.
 
 1/4 cup tahini
+
 1/4 cup water
+
 1 garlic clove, grated
+
 2 teaspoon lemon juice
 
-Thin tahini with water. Add rest of ingredients.
+- Thin tahini with water. Add rest of ingredients.
