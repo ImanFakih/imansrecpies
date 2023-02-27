@@ -16,9 +16,9 @@ Released under the MIT License
 
 ## Docs
 ### Docker
-```
-docker build . -t elephants
-docker run -it elephants shell
-cd example
-hugo server
-```
+#```
+#docker build . -t elephants
+#docker run -it elephants shell
+#cd example
+#hugo server
+#```
