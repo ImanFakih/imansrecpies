@@ -8,21 +8,19 @@ tags: []
 ---
 
 
-
-
-2 (14.5-ounce) cans white beans
-1 cans pinto beans
-2 tablespoon olive oil
-1 medium jalapeno pepper, minced
-2 large onion, chopped
-6 garlic cloves, mashed
-Kosher salt and freshly ground black pepper
-1 1/2 tablespoon ground cumin
-2 teaspoons ground coriander
-3 cups low-sodium chicken broth
-2 limes, juiced, plus lime wedges, for serving/ 1 lemon
-1/2 chicken, skin removed and meat shredded
-1 cup chopped cilantro leaves
+- 2 (14.5-ounce) cans white beans
+- 1 cans pinto beans
+- 2 tablespoon olive oil
+- 1 medium jalapeno pepper, minced
+- 2 large onion, chopped
+- 6 garlic cloves, mashed
+- Salt and freshly ground black pepper
+- 1 1/2 tablespoon ground cumin
+- 2 teaspoons ground coriander
+- 3 cups chicken broth
+- 2 limes, juiced, plus lime wedges, for serving/ 1 lemon
+- 1/2 chicken, skin removed and meat shredded
+- 1 cup chopped cilantro leaves
 
 Drain and rinse the canned white beans. In a medium bowl, mash half of the beans with a potato masher until chunky. Reserve the beans until needed.
 
