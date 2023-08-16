@@ -7,8 +7,8 @@ categories: []
 tags: []
 ---
 
-- 1 kg chicken thighs meat
-- 3 cups chopped broccoli
+- 1 kg chicken thigh meat
+- 2 cups chopped broccoli
 - 2 tablespoons butter
 - 1 tablespoon flour
 - 6 garlic cloves, mashed
