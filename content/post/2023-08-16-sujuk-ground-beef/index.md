@@ -15,7 +15,7 @@ tags: []
 - Pinch of ground cloves
 - 1.5 tablespoons tomato paste (or 1 tablespoon ketchup)
 
-Fry beef with all the other ingredients. If the beef is not fatty, fry in 1-2 tablespoons clarified butter.
+If the beef is lean, add fat to cover the bottom of a frying pan. Add beef, garlic, salt and spices. Fry until cooked through. Add tomato paste and fry for another couple of minutes.
 
 ---
 _This is delicious over rice (like the Yellow Maggi Rice), with a salad on the side. It can also be a poutine topping, or it can be rolled in a tortilla with cheese, then pressed in a grill._
