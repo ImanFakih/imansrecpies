@@ -15,6 +15,7 @@ tags: []
 - 2 medium tomatoes, finely diced
 - 1.5 cups chopped cilantro
 - 1 lemon, juiced
+- salt and black pepper
 
 In a large pot over medium heat, fry beef in 2 tablespoons of clarified butter with salt and black pepper. Before they are completely cooked through, remove from pot and put aside.
 
