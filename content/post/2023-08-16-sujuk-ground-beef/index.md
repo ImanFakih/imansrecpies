@@ -1,5 +1,5 @@
 ---
-title: Sujuk ground beef
+title: Sujuk Ground Beef
 author: ''
 date: '2023-08-16'
 slug: []
