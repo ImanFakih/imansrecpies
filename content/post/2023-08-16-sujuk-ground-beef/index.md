@@ -18,4 +18,4 @@ tags: []
 Fry beef with all the other ingredients. If the beef is not fatty, fry in 1-2 tablespoons clarified butter.
 
 ---
-_This is delicious over plain rice, with a salad on the side. It can also be a poutine topping, or it can be rolled in a tortilla with cheese, then pressed in a grill._
+_This is delicious over rice (like the Yellow Maggi Rice), with a salad on the side. It can also be a poutine topping, or it can be rolled in a tortilla with cheese, then pressed in a grill._
