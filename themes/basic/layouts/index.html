@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-
-<html>
-  {{ partial "header.html" . }}
+{{ partial "header.html" . }}
 
 <section  id="content" class="page-content">
   {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
