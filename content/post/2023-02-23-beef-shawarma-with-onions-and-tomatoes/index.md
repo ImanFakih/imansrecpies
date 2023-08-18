@@ -3,7 +3,7 @@ title: Beef Shawarma with Onions and Tomatoes
 author: ''
 date: '2023-02-23'
 slug: []
-categories: [main]
+categories: [mains]
 tags: []
 ---
 

@@ -3,7 +3,7 @@ title: Thai Ground Beef
 author: ''
 date: '2023-02-25'
 slug: []
-categories: [main]
+categories: [mains]
 tags: []
 ---
 

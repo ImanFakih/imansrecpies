@@ -3,7 +3,7 @@ title: Chicken and Broccoli White Sauce Pasta
 author: ''
 date: '2023-08-16'
 slug: []
-categories: []
+categories: [mains]
 tags: []
 ---
 

@@ -3,7 +3,7 @@ title: Red Chili with Chicken and Corn
 author: ''
 date: '2023-02-19'
 slug: []
-categories: [main]
+categories: [mains]
 tags: []
 ---
 
