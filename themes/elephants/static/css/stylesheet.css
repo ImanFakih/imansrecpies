@@ -1,5 +1,5 @@
 body {
-    font-family: 'Ubuntu';
+    font-family: 'EB Garamond';
     color: #111;
     margin: auto;
     max-width: 50em;
@@ -23,7 +23,7 @@ a {
 }
 
 .date-time-font {
-    font-family: 'Ubuntu Mono';
+    font-family: 'EB Garamond';
 }
 
 #posts {
