@@ -21,8 +21,8 @@ Add the turmeric and cumin. Let the spices cook for about 1 minute without letti
 
 Add the rice and stir to coat. Cook for a few minutes, stirring frequently, until the rice is lightly toasted.
 
-- 2 1/2 cups water + , or 2 1/2 cups chicken broth
-- 1/2 teaspoon salt, or 1  teaspoon if not using Maggi
+- 2 1/2 cups water if using Maggi, or 2 1/2 cups chicken broth
+- 1/2 teaspoon salt if using Maggi, or 1 teaspoon
 
 Add the water/chicken broth and salt. Raise the heat to high and bring to a boil. 
 
