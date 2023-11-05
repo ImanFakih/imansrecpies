@@ -1,22 +1,19 @@
 {{ partial "header.html" . }}
 
-<section  id="content" class="page-content">
-  {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
-    {{ if eq "categories" $taxonomyname }}
-      {{ range $key, $value := $taxonomy }}
-        <div>{{ $key }}</div>
-        <table>
-        {{ range sort $value.Pages "Title"}}
-        <tr>
-          <td class="post">
-          <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </td>
-        </tr>
-        {{ end }}
-        </table>
-      {{ end }}
+<section id="content" class="page-content">
+  {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }} {{ if eq "categories"
+  $taxonomyname }} {{ range $key, $value := $taxonomy }}
+  <div>{{ $key }}</div>
+  <table>
+    {{ range sort $value.Pages "Title"}}
+    <tr>
+      <td class="post">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </td>
+    </tr>
     {{ end }}
-  {{ end }}
+  </table>
+  {{ end }} {{ end }} {{ end }}
 </section>
 
 {{ partial "footer.html" . }}
