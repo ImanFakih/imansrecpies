@@ -1,11 +1,12 @@
 ---
 title: Honey Cardamom Cake
-author: ''
-date: '2023-10-27'
+author: ""
+date: "2023-10-27"
 categories: [dessert]
 tags: []
 draft: false
 ---
+
 `Makes a 9-inch cake`
 
 - 1/2 cup (110g) butter
@@ -19,7 +20,7 @@ Take the butter out of the fridge. Preheat the oven to 325°F/160°C. Prepare a 
 - ¼ tsp vanilla powder
 - ¼ tsp salt
 
-When the butter is soft but still relatively cold, mix the dry ingredients in a large bowl using a whisk. Use a hand-mixer or food processor to incorporate the butter until the mixture looks uniform. 
+When the butter is soft but still relatively cold, mix the dry ingredients in a large bowl using a whisk. Use a hand-mixer or food processor to incorporate the butter into the dry ingredients until the mixture looks uniform.
 
 - 1 cup (340g) honey, or a mix of honey and sugar by weight
 - 2 eggs
