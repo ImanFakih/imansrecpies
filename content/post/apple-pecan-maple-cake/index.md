@@ -9,7 +9,7 @@ tags: []
 _`Makes a 9-inch cake`_
 
 ### Apple Pecan Cake
-- ⅔ cup(150g) unsalted butter
+- ⅔ cup (150g) unsalted butter
 - 2 apples, preferably a sour variety like Granny Smith
 - ½ cup (60g) pecans
 
@@ -21,7 +21,7 @@ Melt the butter. Peel and grate the apples. Finely chop the pecans. Place them i
 - 1½ cups (225g) all-purpose flour
 - 2 tsp baking powder
 - 2 tsp ground cinnamon
-- ½ tsp vanilla powder
+- ¼ tsp vanilla powder
 - ¼ tsp salt
 
 Add the remaining ingredients and mix until well combined. Pour into the pan and smooth the top. Cook for 50–55 minutes or until cooked when tested with a skewer.
