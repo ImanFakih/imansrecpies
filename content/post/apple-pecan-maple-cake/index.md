@@ -10,7 +10,7 @@ _`Makes a 9-inch cake`_
 
 ### Apple Pecan Cake
 - ⅔ cup(150g) unsalted butter
-- 2 Granny Smith apples
+- 2 apples, preferably a sour variety like Granny Smith
 - ½ cup (60g) pecans
 
 Preheat oven to 325°F/160°C. Prepare a 9-inch cake pan.
@@ -34,4 +34,4 @@ When the cake is done, place the maple syrup and butter in a small saucepan over
 
 ---
 
-Based on [a recipe by Donna Hay](https://www.donnahay.com.au/recipes/s/apple-and-pecan-cake-with-hot-maple-butter).
+Based on a <a href="https://www.donnahay.com.au/recipes/s/apple-and-pecan-cake-with-hot-maple-butter" target="_blank">recipe</a> by Donna Hay.
