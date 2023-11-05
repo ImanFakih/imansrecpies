@@ -11,9 +11,9 @@ ignoreFiles:
   - _cache$
   - \.knit\.md$
   - \.utf8\.md$
+  - \.prettierrc.json
 
 markup:
   goldmark:
     renderer:
       unsafe: true
-
