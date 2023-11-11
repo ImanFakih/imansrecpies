@@ -31,4 +31,4 @@ Chop celery very fine by hand or using the food processor. Heat olive oil in lar
 
 Chop carrots and zucchini, and break the green beans into bite-size pieces, discarding the ends. Add carrots and green beans to the pot with another pinch of salt. Coat with the oil then add the chicken stock. Simmer for 15 minutes. Add the zucchini to the pot and simmer for another 10 minutes. Add the shredded chicken and turn off the heat.
 
-Taste for salt and black pepper
+Taste for salt and black pepper.
