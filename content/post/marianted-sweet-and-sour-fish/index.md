@@ -2,7 +2,7 @@
 title: "Marianted Sweet and Sour Fish"
 author: "Iman"
 date: 2023-11-11
-categories: [mains- fish]
+categories: [mains]
 tags: []
 draft: false
 ---
