@@ -7,7 +7,7 @@ tags: []
 draft: false
 ---
 
-`This makes a deep 9' x 13' casserole. If your casserole has sides lower than xx', make ¾ of the recipe.`
+`This makes a deep 9' x 13' casserole. If your casserole is shallow, make ¾ of the recipe.`
 
 #### Meat sauce
 
