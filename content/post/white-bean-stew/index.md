@@ -28,8 +28,8 @@ Mince the jalapeno and chop the onion. Add the oil to a large pot and heat it ov
 
 Mash the garlic and add it to the sauteeing vegetables. Stir for about a minute then add the spices. Fry for another minute.
 
-- 2 (14.5-ounce) cans white beans
-- 1 can pinto beans
+- 2 x 14.5-ounce/450-ml can white beans
+- 1 x 14.5-ounce/450-ml can pinto beans
 - 1 tsp salt
 
 Drain and rinse the canned beans and add them to the pot. Simmer on a gentle heat for at least 15 minutes or until beans are tender. Stir in the shredded chicken.
