@@ -1,19 +1,71 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "header.html" . }}
 
-<section id="content" class="page-content">
-  {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }} {{ if eq "categories"
-  $taxonomyname }} {{ range $key, $value := $taxonomy }}
-  <div>{{ $key }}</div>
-  <table>
-    {{ range sort $value.Pages "Title"}}
-    <tr>
-      <td class="post">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </td>
-    </tr>
-    {{ end }}
-  </table>
-  {{ end }} {{ end }} {{ end }}
-</section>
+    <section id="content" class="page-content">
+      <div>Mains</div>
+      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+      "mains")}}
+      <table>
+        <tr>
+          <td class="post">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+        </tr>
+        {{end}}
+      </table>
 
-{{ partial "footer.html" . }}
+      <div>Sides - Rice</div>
+      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+      "rice")}}
+      <table>
+        <tr>
+          <td class="post">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+        </tr>
+        {{end}}
+      </table>
+
+      <div>Sides - Vegetables</div>
+      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+      "sides")}}
+      <table>
+        <tr>
+          <td class="post">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+        </tr>
+        {{end}}
+      </table>
+
+      <div>Soups</div>
+      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+      "soups")}}
+      <table>
+        <tr>
+          <td class="post">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+        </tr>
+        {{end}}
+      </table>
+
+      <div>Desserts</div>
+      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+      "dessert")}}
+      <table>
+        <tr>
+          <td class="post">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+        </tr>
+        {{end}}
+      </table>
+    </section>
+
+    {{ partial "footer.html" . }}
+  </body>
+</html>
