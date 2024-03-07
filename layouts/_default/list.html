@@ -1,21 +1,27 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body>
+    {{ partial "header.html" . }}
 
-<section id="content" class="page-content">
-  <table>
-    {{ range .Site.RegularPages.ByPublishDate.Reverse }}
-    <tr>
-      <td class="post-date-time date-time-font">
-        <time
-          >{{ .Date.Format (.Site.Params.dateform | default " 02 Jan 2006")
-          }}</time
-        >
-      </td>
-      <td class="post">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </td>
-    </tr>
-    {{ end }}
-  </table>
-</section>
+    <section id="content" class="page-content">
+      <table>
+        {{ range .Site.RegularPages.ByPublishDate.Reverse }}
+        <tr>
+          <td class="post-date-time date-time-font">
+            <time
+              >{{ .Date.Format (.Site.Params.dateform | default " 02 Jan 2006")
+              }}</time
+            >
+          </td>
+          <td class="post">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+          </td>
+        </tr>
+        {{ end }}
+      </table>
+    </section>
 
-{{ partial "footer.html" . }}
+    {{ partial "footer.html" . }}
+  </body>
+</html>

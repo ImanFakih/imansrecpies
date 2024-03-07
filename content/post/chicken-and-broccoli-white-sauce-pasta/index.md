@@ -9,7 +9,7 @@ tags: []
 
 `Makes one deep 9x13 tray`
 
-- 1 kg chicken thigh meat
+- 750g chicken thigh meat
 - 1 Tbsp salt
 
 Place chicken in a medium-size saucepan and cover with water. Add salt and simmer for 20 minutes. Turn off heat Keep it in the water for another 10 minutes. Remove from water and let cool. Once cool, shred it.
@@ -33,4 +33,4 @@ Mash garlic and thinly slice the mushroom. In a large pot, melt butter, add the 
 
 Boil pasta until al dente then add it to the pot, along with the pasta water, with the rest of the ingredients.
 
-Transfer to a deep 9x13. Sprinkle with mozzarella. Cook in preheated oven at 375oF for about 20-30 minutes.
+Transfer to a deep 9x13. Sprinkle with mozzarella. Cook in preheated oven at 375°F for about 20-30 minutes.
