@@ -5,7 +5,7 @@
     {{ partial "header.html" . }}
 
     <section id="content" class="page-content">
-      <div>Mains</div>
+      <h1>Mains</h1>
       {{ range where .Site.Pages ".Params.categories" "intersect" (slice
       "mains")}}
       <table>
@@ -17,7 +17,7 @@
         {{end}}
       </table>
 
-      <div>Sides - Rice</div>
+      <h1>Sides - Rice</h1>
       {{ range where .Site.Pages ".Params.categories" "intersect" (slice
       "rice")}}
       <table>
@@ -29,7 +29,7 @@
         {{end}}
       </table>
 
-      <div>Sides - Vegetables</div>
+      <h1>Sides - Vegetables</h1>
       {{ range where .Site.Pages ".Params.categories" "intersect" (slice
       "sides")}}
       <table>
@@ -41,7 +41,7 @@
         {{end}}
       </table>
 
-      <div>Soups</div>
+      <h1>Soups</h1>
       {{ range where .Site.Pages ".Params.categories" "intersect" (slice
       "soups")}}
       <table>
@@ -53,7 +53,7 @@
         {{end}}
       </table>
 
-      <div>Desserts</div>
+      <h1>Desserts</h1>
       {{ range where .Site.Pages ".Params.categories" "intersect" (slice
       "dessert")}}
       <table>

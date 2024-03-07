@@ -9,6 +9,11 @@ body {
 #page-title {
   font-family: "abril-fatface", "Calistoga", serif;
   text-align: center;
+  font-size: 200px;
+}
+
+h1 {
+  font-family: "abril-fatface", "Calistoga", serif;
 }
 
 #page-title h1 a,
