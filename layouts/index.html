@@ -34,41 +34,45 @@
           </table>
         </div>
 
-        <h2>Sides - Vegetables</h2>
-        {{ range where .Site.Pages ".Params.categories" "intersect" (slice
-        "sides")}}
-        <table>
-          <tr>
-            <td class="post">
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </td>
-          </tr>
-          {{end}}
-        </table>
-
-        <h2>Soups</h2>
-        {{ range where .Site.Pages ".Params.categories" "intersect" (slice
-        "soups")}}
-        <table>
-          <tr>
-            <td class="post">
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </td>
-          </tr>
-          {{end}}
-        </table>
-
-        <h2>Desserts</h2>
-        {{ range where .Site.Pages ".Params.categories" "intersect" (slice
-        "dessert")}}
-        <table>
-          <tr>
-            <td class="post">
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-            </td>
-          </tr>
-          {{end}}
-        </table>
+        <div class="scrapbook-item">
+          <h2>Sides - Vegetables</h2>
+          {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+          "sides")}}
+          <table>
+            <tr>
+              <td class="post">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </td>
+            </tr>
+            {{end}}
+          </table>
+        </div>
+        <div class="scrapbook-item">
+          <h2>Soups</h2>
+          {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+          "soups")}}
+          <table>
+            <tr>
+              <td class="post">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </td>
+            </tr>
+            {{end}}
+          </table>
+        </div>
+        <div class="scrapbook-item">
+          <h2>Desserts</h2>
+          {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+          "dessert")}}
+          <table>
+            <tr>
+              <td class="post">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </td>
+            </tr>
+            {{end}}
+          </table>
+        </div>
       </div>
     </section>
 
