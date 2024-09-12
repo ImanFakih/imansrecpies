@@ -108,7 +108,7 @@ a {
   margin-top: 0;
 }
 @media (max-width: 350px) {
-  .grid-container {
+  .scrapbook-grid {
     grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   }
 }
