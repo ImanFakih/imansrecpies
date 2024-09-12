@@ -5,65 +5,71 @@
     {{ partial "header.html" . }}
 
     <section id="content" class="page-content">
-      <h1>Mains</h1>
-      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
-      "mains")}}
-      <table>
-        <tr>
-          <td class="post">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </td>
-        </tr>
-        {{end}}
-      </table>
+      <div class="scrapbook-grid">
+        <div class="scrapbook-item">
+          <h2>Mains</h2>
+          {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+          "mains")}}
+          <table>
+            <tr>
+              <td class="post">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </td>
+            </tr>
+            {{end}}
+          </table>
+        </div>
 
-      <h1>Sides - Rice</h1>
-      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
-      "rice")}}
-      <table>
-        <tr>
-          <td class="post">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </td>
-        </tr>
-        {{end}}
-      </table>
+        <div class="scrapbook-item">
+          <h2>Sides - Rice</h2>
+          {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+          "rice")}}
+          <table>
+            <tr>
+              <td class="post">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </td>
+            </tr>
+            {{end}}
+          </table>
+        </div>
 
-      <h1>Sides - Vegetables</h1>
-      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
-      "sides")}}
-      <table>
-        <tr>
-          <td class="post">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </td>
-        </tr>
-        {{end}}
-      </table>
+        <h2>Sides - Vegetables</h2>
+        {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+        "sides")}}
+        <table>
+          <tr>
+            <td class="post">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </td>
+          </tr>
+          {{end}}
+        </table>
 
-      <h1>Soups</h1>
-      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
-      "soups")}}
-      <table>
-        <tr>
-          <td class="post">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </td>
-        </tr>
-        {{end}}
-      </table>
+        <h2>Soups</h2>
+        {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+        "soups")}}
+        <table>
+          <tr>
+            <td class="post">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </td>
+          </tr>
+          {{end}}
+        </table>
 
-      <h1>Desserts</h1>
-      {{ range where .Site.Pages ".Params.categories" "intersect" (slice
-      "dessert")}}
-      <table>
-        <tr>
-          <td class="post">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </td>
-        </tr>
-        {{end}}
-      </table>
+        <h2>Desserts</h2>
+        {{ range where .Site.Pages ".Params.categories" "intersect" (slice
+        "dessert")}}
+        <table>
+          <tr>
+            <td class="post">
+              <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </td>
+          </tr>
+          {{end}}
+        </table>
+      </div>
     </section>
 
     {{ partial "footer.html" . }}
