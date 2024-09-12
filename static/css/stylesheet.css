@@ -107,3 +107,8 @@ a {
 .scrapbook-item h2 {
   margin-top: 0;
 }
+@media (max-width: 350px) {
+  .grid-container {
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  }
+}
